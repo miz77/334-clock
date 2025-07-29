@@ -1,0 +1,13 @@
+{
+  "title": "334 Clock",
+  "adjustmentPrefix": "現在",
+  "adjustmentSuffix": " ミリ秒の調整がされています。",
+  "minus100": "-100 ms",
+  "plus100": "+100 ms",
+  "minus10": "-10 ms",
+  "plus10": "+10 ms",
+  "minus1": "-1 ms",
+  "plus1": "+1 ms",
+  "lang_ja": "日本語",
+  "lang_en": "English"
+}

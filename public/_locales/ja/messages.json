@@ -1,0 +1,11 @@
+{
+  "appTitle": {
+    "message": "334 Clock"
+  },
+  "adjustmentPrefix": {
+    "message": "現在 "
+  },
+  "adjustmentSuffix": {
+    "message": " ミリ秒の調整がされています。"
+  }
+}
