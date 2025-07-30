@@ -1,5 +1,7 @@
 # 334 Clock 
 
+[![Chromeウェブストアのロゴ](https://developer.chrome.com/static/docs/webstore/branding/image/mPGKYBIR2uCP0ApchDXE.png)](https://chromewebstore.google.com/detail/dpadoplgpikccdeacgmahkppceigckol?utm_source=item-share-cb)
+
 334 Clock は、PCの現在時刻を参照し、ミリ秒単位まで表示する時計です。リューズを用いて表示時刻を調整することができます。  
 Vue 3 + Vite + TypeScript + Vue I18n で開発しています。
 
@@ -36,8 +38,12 @@ Vue 3 + Vite + TypeScript + Vue I18n で開発しています。
 
 ## Chromeウェブストアからのセットアップ
 
-1. Chrome ウェブストアへアクセス  (審査待ち)  
+1. Chrome ウェブストアへアクセス  
+
+[![Chromeウェブストアのロゴ](https://developer.chrome.com/static/docs/webstore/branding/image/tbyBjqi7Zu733AAKA5n4.png)](https://chromewebstore.google.com/detail/dpadoplgpikccdeacgmahkppceigckol?utm_source=item-share-cb)
+
 2. 「Chrome に追加」ボタンをクリック
+
 
 ## ソースコードからのセットアップ
 
@@ -64,3 +70,7 @@ yarn build
 ```
 
 chrome://extensions/ からデベロッパーモードを有効にした上で、ビルド済みフォルダ (dist/) を読み込んでご利用ください。
+
+
+## 謝辞 (Acknowledgements)
+　この拡張機能は、Google Gemini 2.5 Pro および OpenAI の o4-mini から多大なご支援を受けて開発されました。また、私が所属する化学科のある先生が、ご自身で VSCode 拡張機能を公開している姿に刺激を受けて開発したものでもあります。この場を借りて感謝申し上げます。
